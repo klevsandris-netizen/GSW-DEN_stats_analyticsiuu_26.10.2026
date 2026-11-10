@@ -1,0 +1,46 @@
+2026-11-07 18:21:14,259 [INFO]  Data cleaning was made successfully! :) 
+2026-11-07 18:21:14,271 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-07 18:21:14,272 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-07 18:27:18,466 [INFO]  Data cleaning was made successfully! :) 
+2026-11-07 18:27:18,474 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-07 18:27:18,474 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-07 18:28:11,754 [INFO]  Data cleaning was made successfully! :) 
+2026-11-07 18:28:11,769 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-07 18:28:11,771 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-07 18:33:07,486 [INFO]  Data cleaning was made successfully! :) 
+2026-11-07 18:33:07,504 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-07 18:33:07,506 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-07 18:33:07,527 [INFO] NBA Match GSW vs DEN was loaded to SQL database successfully! :) 
+2026-11-07 18:33:07,528 [INFO] ETL-pipeline of the file gsw_rawiu.csv was successfully created. Congrats iuu! :) 
+2026-11-10 21:49:14,745 [INFO]  Data cleaning was made successfully! :) 
+2026-11-10 21:49:14,780 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-10 21:49:14,781 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-10 21:49:14,835 [INFO] NBA Match GSW vs DEN was loaded to SQL database successfully! :) 
+2026-11-10 21:49:14,836 [INFO] ETL-pipeline of the file gsw_rawiu.csv was successfully created. Congrats iuu! :) 
+2026-11-10 21:51:43,432 [INFO]  Data cleaning was made successfully! :) 
+2026-11-10 21:51:43,444 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-10 21:51:43,444 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-10 21:51:43,508 [INFO] NBA Match GSW vs DEN was loaded to SQL database successfully! :) 
+2026-11-10 21:51:43,511 [INFO] ETL-pipeline of the file gsw_rawiu.csv was successfully created. Congrats iuu! :) 
+2026-11-10 22:04:12,341 [INFO]  Data cleaning was made successfully! :) 
+2026-11-10 22:04:12,345 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-10 22:04:12,345 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-10 22:04:12,376 [INFO] NBA Match GSW vs DEN was loaded to SQL database successfully! :) 
+2026-11-10 22:04:12,377 [INFO] ETL-pipeline of the file gsw_rawiu.csv was successfully created. Congrats iuu! :) 
+2026-11-10 22:23:29,582 [INFO]  Data cleaning was made successfully! :) 
+2026-11-10 22:23:29,587 [INFO]  Data cleaning was made successfully! :) 
+2026-11-10 22:23:29,597 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-10 22:23:29,597 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-10 22:23:29,598 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-10 22:23:29,598 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-10 22:23:29,629 [INFO] NBA Match GSW vs DEN was loaded to SQL database successfully! :) 
+2026-11-10 22:23:29,630 [INFO] ETL-pipeline of the file gsw_rawiu.csv was successfully created. Congrats iuu! :) 
+2026-11-10 22:23:29,687 [INFO] NBA Match GSW vs DEN was loaded to SQL database successfully! :) 
+2026-11-10 22:23:29,689 [INFO] ETL-pipeline of the file gsw_rawiu.csv was successfully created. Congrats iuu! :) 
+2026-11-10 22:25:39,371 [INFO]  Data cleaning was made successfully! :) 
+2026-11-10 22:25:39,376 [INFO] Starting Data Quality checks! :)
+2026-11-10 22:25:39,382 [INFO] ✅ Data Quality Check passed successfully. Congrats! :)
+2026-11-10 22:25:39,388 [INFO] CSV files was saved in: /home/selelen/basketball_GSW_analysisiu/csv_filesiuu/gsw_cleaniu.csv
+2026-11-10 22:25:39,389 [INFO] Connecting to SQLite database: /home/selelen/basketball_GSW_analysisiu/GSWdatabaseiu/gswiu.db
+2026-11-10 22:25:39,417 [INFO] NBA Match GSW vs DEN was loaded to SQL database successfully! :) 
+2026-11-10 22:25:39,417 [INFO] ETL-pipeline of the file gsw_rawiu.csv was successfully created. Congrats iuu! :) 
