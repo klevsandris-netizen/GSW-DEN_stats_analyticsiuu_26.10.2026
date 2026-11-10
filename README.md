@@ -3,7 +3,7 @@
 #❤️ An end-to-end Data Engineering pipeline and Data Visualization project analyzing GSW player boxscores.
 
 ## 📁 Project Structure
-
+```text
 basketball_GSW_analysisiu/
 ├── src/
 │   └── pipeline.py           # Core ETL Pipeline script
