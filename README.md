@@ -1,6 +1,8 @@
 # 🏀 Golden State Warriors Boxscore Data Pipeline & Analytics
 
-##❤️ An end-to-end Data Engineering pipeline and Data Visualization project analyzing GSW player boxscores.
+❤️ An end-to-end Data Engineering pipeline and Data Visualization project analyzing GSW player boxscores.
+
+##I Hope You Enjoy And Thank You For Your Attention! :) 😔🙏🏿❤️
 
 ## 📁 Project Structure
 ```text
@@ -18,4 +20,4 @@ basketball_GSW_analysisiu/
 
 
 
-##I Hope You Enjoy And Thank You For Your Attention! :) 😔🙏🏿❤️
+
