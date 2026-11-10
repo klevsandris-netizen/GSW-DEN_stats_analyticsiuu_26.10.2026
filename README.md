@@ -2,7 +2,7 @@
 
 ❤️ An end-to-end Data Engineering pipeline and Data Visualization project analyzing GSW player boxscores.
 
-# I Hope You Enjoy And Thank You For Your Attention! :) 😔🙏🏿❤️
+I Hope You Enjoy And Thank You For Your Attention! :) 😔🙏🏿❤️
 
 ## 📁 Project Structure
 ```text
